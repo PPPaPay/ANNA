@@ -1,0 +1,6 @@
+{
+  "name": "ANNA - Bar & Cozy Space",
+  "description": "大阪府松原市高見の里にある大人の隠れ家バー「ANNA」の公式ホームページ。落ち着いたカウンター、厳選ウイスキー、温かい特製フードで、上質な大人のひとときを提供いたします。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
